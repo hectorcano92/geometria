@@ -6,6 +6,7 @@ public class Circulo_HCM extends FiguraGeometrica_HCM {
 	
 	public Circulo_HCM(double r, String tipoFigura) {
 		super(tipoFigura);
+		if (r<0) r*=-1;
 		radio = r;
 	}
 
