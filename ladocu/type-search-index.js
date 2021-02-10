@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","u":"allclasses-index.html"},{"p":"<Unnamed>","l":"Circulo_HCM"},{"p":"<Unnamed>","l":"FiguraGeometrica_HCM"},{"p":"<Unnamed>","l":"Rectangulo_HCM"},{"p":"<Unnamed>","l":"Triangulo_HCM"}];updateSearchResults();
